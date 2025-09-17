@@ -53,7 +53,7 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*==================== EFECTO MAQUINA ESCRIBIR ====================*/
 const typed = new Typed('.multiple-text', {
-    strings: ['Motion Grapher', 'Diseñador Gráfico', 'Ingeniero Multimedia'],
+    strings: ['Motion Grapher', 'Director de Arte', 'Ingeniero Multimedia'],
     typeSpeed: 100,
     backSpeed: 100,
     backDelay: 1000,
